@@ -1,6 +1,5 @@
-# 🎵 YT → Spotify
+# 🎵 YT → Spotify https://yt-spotify-epx9w64agylxqyryydgr4f.streamlit.app
 
-https://yt-spotify-epx9w64agylxqyryydgr4f.streamlit.app
 Un convertisseur web qui extrait les titres de vidéos ou playlists YouTube via du **web scraping** (Selenium) et les ajoute automatiquement à tes titres likés Spotify.
 
 Projet réalisé dans le cadre d'un cours de scraping Python.
