@@ -1,0 +1,30 @@
+# Cache Spotify OAuth
+.cache_victoire
+.cache_debug
+.cache*
+
+# Environnement virtuel
+env/
+venv/
+myenv/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
