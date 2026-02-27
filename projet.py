@@ -807,14 +807,14 @@ elif st.session_state["page"] == "about":
     creators = [
         {
             "name": "DIB Adel",
-            "role": "Développeur principal",
+            "role": "Développeur",
             "github": "https://github.com/adeldib",
             "initials": "AD"
         },
         {
             "name": "YENER Dogukan",
             "role": "Développeur",
-            "github": None,
+            "github": "https://github.com/studentyener",
             "initials": "YD"
         },
         {
