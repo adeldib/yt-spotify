@@ -72,11 +72,11 @@ streamlit run projet.py
 
 ## 🎧 Configuration Spotify
 
-1. Va sur [developer.spotify.com](https://developer.spotify.com/dashboard)
-2. Crée une nouvelle app en cochant **Web API**
-3. Dans Settings, ajoute le Redirect URI : `http://127.0.0.1:8888/callback`
-4. Dans **User Management**, ajoute ton email Spotify
-5. Copie le **Client ID** et **Client Secret** dans l'app
+1. Aller sur [developer.spotify.com](https://developer.spotify.com/dashboard)
+2. Créer une nouvelle app en cochant **Web API**
+3. Dans Settings, ajouter le Redirect URI : `http://127.0.0.1:8888/callback`
+4. Dans **User Management**, ajouter ton email Spotify
+5. Copier le **Client ID** et **Client Secret** dans l'app
 
 ---
 
