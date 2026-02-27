@@ -11,7 +11,7 @@ Projet réalisé dans le cadre d'un cours de scraping Python.
 | Nom | GitHub |
 |-----|--------|
 | DIB Adel | [@adeldib](https://github.com/adeldib) |
-| YENER Dogukan | — |
+| YENER Dogukan | [@Yener](https://github.com/studentyener) |
 | AIT AMROUCHE Sofiene | — |
 
 ---
