@@ -62,6 +62,13 @@ streamlit run projet.py
 ```
 
 ---
+## 💡 Exemple d'utilisation (Usage)
+
+1. Lancez l'application via Streamlit.
+2. Entrez vos clés API Spotify dans le menu latéral.
+3. Collez l'URL d'une vidéo ou d'une playlist YouTube dans la barre de recherche.
+4. Cliquez sur **"Extraire les titres"**.
+5. Sélectionnez les musiques que vous souhaitez garder, puis cliquez sur **"Ajouter à Spotify"**.
 
 ## 🎧 Configuration Spotify
 
@@ -90,3 +97,9 @@ streamlit run projet.py
 - Nécessite un compte **Spotify Premium**
 - Les playlists YouTube **privées** ne sont pas supportées
 - L'app Spotify doit rester en **Development Mode** (max 25 utilisateurs)
+
+## ⚖️ Éthique & Légalité (Legal Disclaimer)
+
+Ce projet a été développé **uniquement à des fins éducatives** dans le cadre d'un projet universitaire de Web Scraping.
+- **Web Scraping responsable :** L'extraction de données sur YouTube est effectuée de manière ciblée via Selenium. Nous utilisons des délais d'attente (waits) appropriés pour ne pas surcharger les serveurs de la plateforme.
+- **Transparence des données :** L'application ne collecte et ne stocke **aucune donnée personnelle**. L'authentification Spotify utilise le protocole officiel OAuth 2.0 et vos clés API (Client ID / Secret) ne sont sauvegardées sur aucun de nos serveurs.
